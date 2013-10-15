@@ -1,0 +1,6 @@
+# This is comment which will be ingored by Git.
+*.temp
+!leon.temp
+/TODO
+build/
+test/*.tmp
